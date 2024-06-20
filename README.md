@@ -1,4 +1,4 @@
-# This code implements a machine translation system to translate English sentences into Marathi using a sequence-to-sequence model with attention in TensorFlow. Here's a concise description:
+# This code implements a machine translation system to translate English sentences into Marathi using a sequence-to-sequence model with attention in TensorFlow. Here's a concise description :
 
 1. Import and Load Data: Necessary libraries are imported, and the English-Marathi sentence pairs are loaded from a file into a DataFrame.
 
